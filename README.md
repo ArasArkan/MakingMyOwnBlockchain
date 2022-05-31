@@ -4,6 +4,6 @@
 <p align="center"> You can easily understand if you have some knowledge of javascript... </p>
 <br><br>
 <h3 align="center"><<< and now i wrote a short article explaining the logic of the codes here i leave it >>></h3>
-<a href="https://aras.gitbook.io/blockchain101/">Blockchain101</a>
+<a align="center" href="https://aras.gitbook.io/blockchain101/">Blockchain101</a>
 
 
