@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "crypto.js": "^3.0.0"
+  }
+}
