@@ -62,14 +62,3 @@ class Chain {
   } 
 
 }
-
-let Coin = new Chain();
-Coin.AddBlock(new Block(1,"31/05/2022", { amount: 4 }));
-Coin.AddBlock(new Block(2,"31/05/2022", { amount: 10 }));
-
-console.log(Coin.isChainValid());
-
-Coin.chain[1].data = { amount: 100 };
-Coin.chain[1].hash = Coin.chain[1].calcHash();
-
-console.log(Coin.isChainValid()); 
